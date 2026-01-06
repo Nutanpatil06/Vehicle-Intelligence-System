@@ -34,20 +34,6 @@ Urban mobility faces critical challenges that existing solutions don't address h
 - EV charging station compatibility checking
 - Route optimization considering energy consumption
 
-**💡 Core Features at a Glance:**
-
-Feature	                     Technology Used	                      Key Benefit
-
-Real-time Parking	           Computer Vision + IoT Sensors	        Reduces search time by 40-60%
-
-Vehicle Health	             Telematics + ML Algorithms	            Predicts maintenance needs 2-3 weeks in advance
-
-GPS Tracking        	       OpenStreetMap + Custom Routing	        Optimizes routes considering traffic & vehicle status
-
-Station Finder     	         API Integration + Geofencing	          Finds optimal refueling/charging points
-
-Central Dashboard	           React + TypeScript	                    Unified view of all vehicle data
-
 **🚀 Impact & Applications:**
 
 1. For Individual Owners:
@@ -96,17 +82,12 @@ Central Dashboard	           React + TypeScript	                    Unified view
 
 **🤝 Target Users & Use Cases:**
 
-User Type	                        Primary Needs	                               How VIS Helps
-
-Daily Commuters	                  Faster parking, lower costs                	 Parking guidance, fuel optimization
-
-Ride-share Drivers	              Maximum uptime, efficient routes	           Maintenance alerts, optimal routing
-
-Fleet Managers	                  Cost control, compliance	                   Central monitoring, reporting, compliance logs
-
-Logistics Companies	              On-time delivery, asset utilization	         Real-time tracking, route optimization
-
-Smart City Planners	              Traffic data, infrastructure planning       Anonymous aggregated data insights
+User Type:	          
+- Daily Commuters	                  
+- Ride-share Drivers	              
+- Fleet Managers	                 
+- Logistics Companies	              
+- Smart City Planners	              
 
 **📊 Current Status & Metrics:**
 
